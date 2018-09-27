@@ -129,9 +129,6 @@ public class MiniMax {
                     }
                 }
             }
-//            System.out.println("<<<<<<<<<<" + color.name() + ">>>>>>>>>>");
-//            Player.printPosition(result);
-//            System.out.println("<<<<<<<<<<>>>>>>>>>>");
             return result;
         }
         return null;
